@@ -1,0 +1,17 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers Python mis en cache
+__pycache__/
+*.pyc
+
+# Logs et cache de votre application
+app.log
+geo_cache.json
+
+# Configuration VS Code
+.vscode/
+
+# Fichiers système (Windows/Mac)
+.DS_Store
+Thumbs.db
